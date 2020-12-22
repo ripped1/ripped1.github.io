@@ -1,6 +1,6 @@
 ---
-name: Miscellaneous
 layout: page
+name: Miscellaneous
 ---
 
 A page for random things
